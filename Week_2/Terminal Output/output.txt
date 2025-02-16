@@ -1,0 +1,13 @@
+/usr/bin/python3 /Users/dhruvilpatel/Programming/woc7.0-system-programming-terminal-database-dhruvil/Week_2/week_2.py
+Database 'test_db' created.
+Switched to database 'test_db'.
+Table 'users' created.
+Entry 'user1' added to table 'users'.
+{
+    "user1": {
+        "name": "Dhruvil",
+        "age": 20
+    }
+}
+
+Process finished with exit code 0

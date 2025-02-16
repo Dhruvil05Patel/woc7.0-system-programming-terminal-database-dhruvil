@@ -1,0 +1,18 @@
+{
+    "employees": {
+        "schema": [
+            "id",
+            "name",
+            "age",
+            "role"
+        ],
+        "entries": {
+            "202301035": [
+                "202301035",
+                "\"Dhruvil\"",
+                "20",
+                "\"Engineer\""
+            ]
+        }
+    }
+}
